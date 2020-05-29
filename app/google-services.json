@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "595925483421",
+    "firebase_url": "https://flypath-97eb3.firebaseio.com",
+    "project_id": "flypath-97eb3",
+    "storage_bucket": "flypath-97eb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595925483421:android:a1f21cba59e61861147974",
+        "android_client_info": {
+          "package_name": "com.example.flypath"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595925483421-i5a1vssuk3h805ldvhdgtmjo1j7piijj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flypath",
+            "certificate_hash": "13f7a2390916ad2fb851871215dfce240308676d"
+          }
+        },
+        {
+          "client_id": "595925483421-8jogr19tmbe0j7f6nnvickcs823au7ns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4YIpBumd_oOc95TgNo74_ywT4KJOjuEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595925483421-8jogr19tmbe0j7f6nnvickcs823au7ns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
